@@ -1,7 +1,12 @@
-## Initial Commmit for the Collab
+### Colab Notebooks
 
-Need to do : 
+This repo is a set of my notebooks, as well as a few modified colab notebooks for my specific use cases.
 
--> install prereqs (Clients, apps, test envs, personal projects)
--> Configure the jupiter-notebook for web-based gui applet
--> install tf2 & pyTorch
+What is currently here?
+
+-> An implementation of a seedbox with most necessary scripts and tools pre-configured.
+
+
+What is being worked on?
+-> a prototype ML notebook
+-> 
