@@ -1,6 +1,6 @@
 ### Colab Notebooks
 
-This repo is a set of my notebooks, as well as a few modified colab notebooks for my specific use cases.
+This repo constitutes of my personal notebooks, as well as a few modified colab notebooks for my specific use cases.
 
 What is currently here?
 
